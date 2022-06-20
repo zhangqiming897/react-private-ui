@@ -1,2 +1,2 @@
-# react-gudsen-ui
-搭建公司自研组件库
+# react-private-ui
+react 基于vite自研组件库
